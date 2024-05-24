@@ -1,4 +1,4 @@
-,Case,Spacecraft,Condition,SV1,SV2,SV3,SV4,BP1,BP2,BP3,BP4,BP5,BP6,BP7,BV1,binary_condition
+index,Case,Spacecraft,Condition,SV1,SV2,SV3,SV4,BP1,BP2,BP3,BP4,BP5,BP6,BP7,BV1,binary_condition
 0,1,1,1,100,100,100,100,0,0,0,0,0,0,0,0,0
 1,2,1,1,100,100,100,100,0,0,0,0,0,0,0,0,0
 2,3,1,1,100,100,100,100,0,0,0,0,0,0,0,0,0
