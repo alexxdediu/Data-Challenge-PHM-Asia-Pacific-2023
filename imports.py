@@ -31,6 +31,9 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error
 
 import xgboost as xgb
 
+from fastdtw import fastdtw
+from scipy.spatial.distance import euclidean
+
 import pickle
 from sklearn.model_selection import cross_val_score
 from imblearn.over_sampling import SMOTE

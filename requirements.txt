@@ -8,5 +8,5 @@ plotly
 sklearn
 scikit-learn
 scipy
-
+fastdtw
 
