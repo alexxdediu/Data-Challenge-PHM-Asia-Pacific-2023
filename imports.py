@@ -28,6 +28,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.feature_selection import SelectFromModel
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, mean_absolute_error
+from xgboost import XGBClassifier
 
 import xgboost as xgb
 
